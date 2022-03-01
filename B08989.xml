@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and strange relation of the travels, adventures, and great persecution of four eminent Quakers who in the year 1680 travelled through France, Italy and Turkey, to promote their religion. Wherein is fully declared the designs, endeavours and attempts of these zealous Quakers, for the conversion of the great Turk and the pope. With a perfect account of the event and success of the business, and of all the most remarkable passages. Also a faithful relation of their private discourses and disputes which passed between these Quakers and the pope, the cardinal his cousin, and Cardinal Pool. Also of their voyage to Constantinople, and of their most barbarous cruel and bloody death by the special command of the chief governour the great Turk. Who caused their hands to be chop'd off, their tongues to be cut out, and their eyes bored out, and each man to have a wooden stake run in at his fundament quite through his body. / Faithfully and compendiously related by John Elias Esq; who was an eye-witness to a great part of these transactions in Constantinople.</title>
+            <author>Elias, John, fl. 1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08989</idno>
+            <idno type="OCLC"> 124064171</idno>
+            <idno type="STC">Wing E499B</idno>
+            <idno type="STC">ESTC R176614</idno>
+            <idno type="EEBO-CITATION">124064171</idno>
+            <idno type="OCLC">ocn 124064171</idno>
+            <idno type="VID">192256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192256)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2909:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and strange relation of the travels, adventures, and great persecution of four eminent Quakers who in the year 1680 travelled through France, Italy and Turkey, to promote their religion. Wherein is fully declared the designs, endeavours and attempts of these zealous Quakers, for the conversion of the great Turk and the pope. With a perfect account of the event and success of the business, and of all the most remarkable passages. Also a faithful relation of their private discourses and disputes which passed between these Quakers and the pope, the cardinal his cousin, and Cardinal Pool. Also of their voyage to Constantinople, and of their most barbarous cruel and bloody death by the special command of the chief governour the great Turk. Who caused their hands to be chop'd off, their tongues to be cut out, and their eyes bored out, and each man to have a wooden stake run in at his fundament quite through his body. / Faithfully and compendiously related by John Elias Esq; who was an eye-witness to a great part of these transactions in Constantinople.</title>
+                  <author>Elias, John, fl. 1659.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke, at the Bible and Harp in West-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Missions --  Early works to 1800.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192256:1" rendition="simple:additions"/>
+            <pb facs="tcp:192256:1"/>
+            <pb facs="tcp:192256:2"/>
+            <pb facs="tcp:192256:2" rendition="simple:additions"/>
+            <p>A True and Strange RELATION OF THE Travels, Adventures, and great Perſecution of FOUR Eminent Quakers Who in the Year 1680, Travelled through <hi>France, Italy, and Turkey,</hi> to promote their <hi>RELIGION.</hi>
+            </p>
+            <p>Wherein is fully Declared the Deſigns, Endeavours and Attempts of theſe Zealous Quakers, for the Converſion of the Great <hi>T<g ref="char:V">Ʋ</g>RK</hi> and the <hi>POPE.</hi>
+            </p>
+            <p>With a perfect Account Of the Event and Succeſs of the Buſineſs, and of all the moſt remarka<g ref="char:EOLhyphen"/>ble Paſſages. As alſo a faithful Relation of their private Diſcourſes and Diſputes which paſſed between theſe <hi>Quakers</hi> and the <hi>Pope,</hi> the <hi>Cardinal</hi> his Couſin, and <hi>Cardinal Pool.</hi>
+            </p>
+            <p>Alſo of their VOYAGE to Conſtantinople, And of their moſt Barbarous, cruel and bloody Death, by the Special Command of the Chief Governour the <hi>Great Turk.</hi>
+            </p>
+            <p>Who cauſed their Hands to be chop'd off, their Tongues to be cut out, and their Eyes bored out, and each Man to have a ſharp Wooden Stake run in at his Fundament quite through his Body.</p>
+            <p>
+               <hi>Faithfully and compendiouſly related by <hi>John Elias</hi> Eſq; who was an Eye-witneſs to a great part of theſe Tranſactions in</hi> Con<g ref="char:EOLhyphen"/>ſtantinople.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>Printed for <hi>I. Clarke,</hi> at the Bible and Harp in <hi>Weſt-ſmithfield,</hi> 1681.</p>
+            <pb facs="tcp:192256:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:192256:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:192256:4"/>
+            <head>The True and ſtrange Relation of the Travels, Adventures, and great Perſecution, of four Eminent <hi>QUAKERS,</hi> &amp;c.</head>
+            <p>IT was towards the end of <hi>March,</hi> in the year 1670, that <hi>John Watſon, William Stubbs, Nathaniel Golden,</hi> and <hi>Row<g ref="char:EOLhyphen"/>land Jenkins,</hi> all eminently known to be <hi>Leading-men</hi> among the <hi>Quakers:</hi> It was I ſay, about that time that theſe men ſaid they had the <hi>Spir it of Burning,</hi> and the <hi>Holy Anointing</hi> in them, and were called and ſent by God to preach the <hi>Everlaſting Goſpel</hi> to the <hi>Nations</hi> and <hi>Heathens.</hi> And they ſaid that the <hi>Child Jeſus</hi> within them, had aſſured them of great ſucceſs, and that the Lord would be wonderfully with them in this <hi>Diſpenſation,</hi> that they ſhould breake the <hi>Bread of Life</hi> to the Nations, and that the <hi>Springs of Life</hi> ſhould break forth out of their Bellies It is a wonder to ſee what ſtrange effects and boldneſs theſe <hi>Enthuſiaſti<g ref="char:EOLhyphen"/>cal perſwaſions</hi> and <hi>Phanatical Dreams</hi> cauſed in theſe poor men. They were now ſwelled with hopes and expectation of Won<g ref="char:EOLhyphen"/>ders. They now reſolved to leave <hi>England,</hi> and embark for <hi>France,</hi> and begin this <hi>great work</hi> of converting <hi>Nations</hi> and <hi>Heathens.</hi>
+            </p>
+            <p>
+               <hi>Reader,</hi> I do intend to give you a true and impartial account of theſe mens actions in Forreign parts, as I have received it from their own mouths, and alſo been fully and faithfully informed by ſeveral other perſons of known worth and Integrity, who were eye-witneſſes to the ſame.</p>
+            <p>
+               <hi>John VVatſon</hi> was a Gentleman of a pretty conſiderable eſtate and been well Educated, he had ſpent ſome years at the <hi>Univerſi<g ref="char:EOLhyphen"/>ty,</hi> and had alſo formerly been a Traveller into <hi>France, Spain,</hi> and <hi>Italy,</hi> all which Languages he throughly underſtood, and ſpake very fluently. The other three were plain Country-men, and knew no other Language but their own, but perſwaded them<g ref="char:EOLhyphen"/>ſelves t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey ſhould have the <hi>Gift of Tongues,</hi> and be indued with power from above.</p>
+            <p>In <hi>Eaſter</hi> Week they took Shipping at <hi>Dover,</hi> and were ſoon waſted over to <hi>Calis.</hi> I find not that they had any Impulſe of Spir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to ſay or attempt any thing, but that they travelled on very peaceably and quietly, paying for what they had, and ſo came to the great City <hi>Paris,</hi> where they ſpent two days only, and then
+<pb n="2" facs="tcp:192256:4"/> advanced towards <hi>Lyons,</hi> where they continued about a Fort night. Here it was that the tumultuous Spirit began firſt to ſhew it ſelf to the <hi>French Nation.</hi> On <hi>April 27. William Stubbs</hi> ſaid he had received a command from God to ſpeak; and he ſignified as much to <hi>John VVatſon</hi> and the reſt. On the next day which was Sunday, about 10 of the Clock in the Forenoon, they went all four to the great <hi>Cathedral,</hi> or St. <hi>Johns Church;</hi> where they were celebrating high <hi>Maſs</hi> (as they call it) about the middle of the <hi>Maſs, VVilliam Stubbs</hi> on a ſudden climbs over the Rails and goes up to the High Alter, where as he was beginning his Diſ<g ref="char:EOLhyphen"/>courſe in <hi>Engliſh</hi> (for as yet he had not received his <hi>gift of tongues)</hi> the <hi>Church-Officers</hi> preſently lay hands on him and carry him out, and commit him to Priſon until the next day. On <hi>Munday</hi> the Officers have him before the Magiſtrate, who refuſes to meddle in this caſe, but cauſes him forthwith to be ſent to the Arch-Bi<g ref="char:EOLhyphen"/>ſhop. The Arch-Biſhop is highly offended with him for his bold attempt and reſolves to puniſh him with all ſeverity imaginable, he remits him to Priſon, and orders that the next day at 10 of the Clock in the monrning, he be brought before him again. On <hi>Tueſday</hi> he is ſtrictly examined what his intentions were, and how he durſt be ſo bold to commit ſo great a Crime in ſo publick and confident manner; His anſwers were altogether imperti<g ref="char:EOLhyphen"/>nent, and withal ſo ſawcy, that the Biſhop ſent him to the <hi>Houſe of Correction</hi> where he was ſoundly laſhed. On <hi>Friday</hi> morning the Biſhop ordered him to be brought before him again; and ſeemed to be much incenſed againſt this poor Quaker: Now the reaſon why his Grace was ſo fierce againſt this poor man, was, becauſe of his Servants had maliciouſly ſuggeſted to him that he was ſet on and encouraged to offer this publick affront to their Divine Service, by ſome of the <hi>Hagonot</hi> Miniſters; which was a moſt malicious untruth, for as yet theſe Quakers had not had any of the leaſt correſpondence or converſe with any Proteſtant in <hi>France,</hi> as they did all very ſoberly atteſt to me in <hi>Italy.</hi> The Biſhop was reſolved to give him a full hearing, and to ſift the buſineſs to the bottom. He asked him if he was not ſet on to this irreverent action by the <hi>Hugonot</hi> Miniſters? He replyed no, he was moved by the Spirit of God within him, and that it was
+<pb n="3" facs="tcp:192256:5"/> the <hi>Spirit of Burning</hi> and the <hi>Holy Anointing</hi> that had cauſed him to do as he had done. And here he entred into a long diſcourſe, telling the Arch-Biſhop, and the <hi>Canons</hi> who were there preſent, that the Law of God was written upon mens hearts, and that now the time was come that they ſhould be taught of God. Now the Lords people were all to be Prophets, they were all to have freſh Springs ariſe in their hearts. And that the Lord had ſent him and three Friends more into theſe parts, to break the bread of Life to the Nations, to open the hidden Myſteries of Chriſts Kingdom, to overthrow the <hi>Babyloniſh Practices</hi> of <hi>Rome,</hi> to break the Serpents Head, and wound the great <hi>Leviathan.</hi>
+            </p>
+            <p>The <hi>Arch-Biſhop,</hi> the <hi>Canons,</hi> and the whole Company were much aſtoniſhed at this mans confidence, and his wild and Fran<g ref="char:EOLhyphen"/>tick diſcourſe and anſwers, and began now to relent, and to pitty this poor man, and look upon him as a Mad-man, and one out of his ſenſes, and ſo accordingly gave order to have him to the Hoſ<g ref="char:EOLhyphen"/>pital of Mad People, and there carefully to be looked after until he gave further order.</p>
+            <p>About a week after this, 3 <hi>Engliſh</hi> Gentlemen hearing what had paſſed, and how that an <hi>Engliſh</hi> man who was mad, was committed to the Hoſpital of Mad-men: The Gentlemen went immediately to the Hoſpital to enquire the truth of the matter, when they came, the Keeper very courteouſly informed them of the whole buſineſs, brought them to the ſight of <hi>Stubbs;</hi> who was locked up in a ſmall Cell by himſelf, and an Iron Chain a<g ref="char:EOLhyphen"/>bout his Leg, and his head ſhaved (for it is the cuſtome there to ſhave all mad people.) When the Gentleman came in, they found him ſitting in a melancholly ſullen poſture: he would not ſo much as look up or ſpeak one word to them, for the ſpace of a<g ref="char:EOLhyphen"/>bove an hour, notwithſtanding they ſpoke very kindly to him, and asked him concerning his condition, and the cauſes of his Diſtemper, and promiſed him all the aſſiſtance and kindneſs that lay in their power: at laſt this ſullen Spirit was overcome, and he began to enter into a long diſcourſe of the Spirit within him, and that God had ſent him and his three friends to break in pieces the great <hi>Leviathan</hi> of <hi>Rome.</hi> Now the Gentlemen quickly per<g ref="char:EOLhyphen"/>ceived his Spirit, and plainly diſcovered him to be no Mad-man,
+<pb n="4" facs="tcp:192256:5"/> but a Quaker. They asked him concerning his other friends where they were? And withal promiſed to do their utmoſt for his Releaſement, and ſo giving the Keeper ſome Money to be kind to their Country-man, they bid him farewel. At evening they went to the Inn to viſit the other three Quakers, and had much diſcourſe with them, endeavouring to perſwade them to deſiſt from this ſo hazardous and fruitleſs an enterprize, and ſpeedily to return to their own Country, demonſtrating the great dangers and inconveniences they would thruſt themſelves upon, if they did ſtill perſiſt, or any farther proſecute this fond and re<g ref="char:EOLhyphen"/>diculous undertaking; and ſo they parted. The next day they addreſſed to the Arch-Biſhop, who was pleaſed to entertain them with much civility and reſpect. They returned humble thanks to his Grace for his greatcare of their Country-man, in ſending him to ſuch a place where he was ſo well accomodated in all things in order to his Cure, and withal, repreſented to his Grace his condition, quality and Religion; and how that he was not a Mad-man, but one of thoſe <hi>Sectarians</hi> which in <hi>England</hi> are called Quaker. And withal, informed the Arch-Biſhop and Canons, how that party do deſire to appear different from all others in their manner of ſpeech, their apparel, and manners. And alſo humbly Petitioned his Grace for a Releaſement, promiſing with<g ref="char:EOLhyphen"/>in a day or two to diſpatch them out of the Town; The Arch-Biſhop readily condeſcended to all their demands, and preſently gave order that <hi>Stubbs</hi> ſhould be ſet at Liberty, which was ac<g ref="char:EOLhyphen"/>cordingly performed. And the day following they all four left the Town, and haſted their Journey to <hi>Italy.</hi>
+            </p>
+            <p>When they came to <hi>Milano</hi> in <hi>Italy,</hi> they had another Enthu<g ref="char:EOLhyphen"/>ſiaſtical impulſe of Spirit. And now <hi>John Watſon, Nathani<g ref="char:EOLhyphen"/>el Golden</hi> and <hi>Rowland Jenkins,</hi> who had hitherto been ſilent, or (as they expreſſed it themſelves) <hi>humbly waiting at the feet of Jeſus,</hi> who had now given them command to begin to Preach the <hi>Everlaſting Goſpel</hi> to the <hi>Italians.</hi> Here <hi>Stubbs</hi> accompanied with his three friends, did now (as formerly at <hi>Lyons</hi> in <hi>France)</hi> upon <hi>Sunday</hi> enter the <hi>Domo</hi> or <hi>Cathedral</hi> of the City, and made a great and publick diſturbance when they were in the heighth of their Solemnities. <hi>Watſon</hi> began to make a diſcourſe in <hi>Itali<g ref="char:EOLhyphen"/>an,</hi>
+               <pb facs="tcp:192256:6"/> but was preſently ſeized and carried forth, and had before a Magiſtrate, who forthwith committed them all four to Priſon, but withal, gave order they ſhould be civily uſed, and lack for nothing until further order; about four or five days after, they were commanded to appear before the Governour of <hi>Milan</hi> him<g ref="char:EOLhyphen"/>ſelf, who was reſolved to have a full account of the matter. The Governour when he ſaw their uncivil behaviour, their ſullen looks, and heard their wild diſcourſes, he preſently concluded them Mad-men, and gave order to have them confined and care<g ref="char:EOLhyphen"/>fully looked after, and alſo appointed two Phyſitians to viſit them, and to do their utmoſt for their recovery. The Phyſitians preſently made a viſit to the Hoſpital, and had a long diſcourſe with <hi>VVatſon,</hi> (who ſpoke <hi>Italian</hi> well) and then returned to the Governour to give him their judgements of the buſineſs, they told his Excellence that they were mad, as did evidently appear to them by their very countenance and manner of Diſcourſe: and that one of them (meaning <hi>Stubbs)</hi> had a manifeſt and ſignal token of his diſtemper, <hi>viz.</hi> his head was ſhaven according to the uſual Practiſe of all Phyſitians in the world. They added al<g ref="char:EOLhyphen"/>ſo that they did verily believe they were <hi>Dutch-men,</hi> who made an eſcape from their Keepers. The Governour was well ſatisfied with this account the Phyſitians gave of the Quakers, and accor<g ref="char:EOLhyphen"/>dingly ordered them to take care of them, and let no means be wanting that might be uſed for their recovery, and that they ſhould be uſed with all tenderneſs imaginable. The Doctors all the time of their Impriſonment cauſing their heads to be ſhaven, letting them blood, and Purging them ſo exceſſively, that <hi>Jor<g ref="char:EOLhyphen"/>dan</hi> after a fortnights confinement, being in a melancholly hu<g ref="char:EOLhyphen"/>mour, he gave up the Ghoſt. The other three by Purging and bleeding, were brought very low, the Phyſitians were very much diſheartned and did altogether diſpair of their recovery, and did ſignifie as much to the Governour, withal telling his Excellence that they ſuppoſed it was ſome <hi>Religious Melancholly</hi> that theſe men were afflicted with, and that it was inſufferable and not to be overcome by any Art, and ſo deſired the Governour to releaſe them, which was accordingly performed; And towards the be<g ref="char:EOLhyphen"/>ginning of <hi>June</hi> they left <hi>Milano</hi> and ſet forward for <hi>Rome;</hi> for to convert the great <hi>Leviathan</hi> the <hi>Pope.</hi>
+            </p>
+            <pb n="6" facs="tcp:192256:6"/>
+            <p>
+               <hi>June</hi> the 18 they came to <hi>Rome,</hi> the place they ſo much deſi<g ref="char:EOLhyphen"/>red to ſee, upon the <hi>Sunday</hi> following, they according to their old Cuſtome, entred a little Church called <hi>San Jacome Scozza Cavalli,</hi> where <hi>Watſon</hi> made a fierce and zealous diſcourſe againſt the <hi>Babyloniſh Idolatry</hi> of that City, and ſaid that the <hi>Pope,</hi> who was the <hi>Man of Sin</hi> and the great <hi>Leviathan,</hi> was now to be cruſhed in pieces, and God had ſent them from the utmoſt parts of the earth to convert that City, and to confound the <hi>Pope</hi> and all his <hi>Adherents,</hi> and that now God would pour out the full Vials of his wrath and fierce indignation upon them, and bring them all to utter Ruine, ſhame and confuſion.</p>
+            <div type="part">
+               <head>
+                  <hi>The Conference of Cardinal</hi> Pool <hi>with the</hi> Engliſh <hi>Quakers, and how he brought them before the</hi> Pope.</head>
+               <p>Theſe poor <hi>Quakers</hi> had not been a Month in <hi>Rome,</hi> but the whole City took great notice of them, and generally condoled their condition, as being diſtracted and far from their own coun<g ref="char:EOLhyphen"/>try, <hi>July</hi> 6 Cardinal <hi>Pool</hi> hearing much of theſe mens frantick actions, was very deſirous out of curioſity to ſee them, and to diſcourſe with them; hereupon he cauſed them to be brought before him, and was pleaſed with much patience to diſcourſe an hour with them, and then civilly diſmiſſed them, and ſent them to their Lodgings. About two days after he made report to the Cardinal his Couſin, and to the Pope himſelf of what had hap<g ref="char:EOLhyphen"/>pened, and of the ſtrange enthuſiaſms of theſe 3 Engliſh <hi>Pazzi</hi> (for ſo he always termed them) and how they had a great deſire to have ſome conference with his Holineſs, and that they affir<g ref="char:EOLhyphen"/>med that God had ſent them to deliver ſome ſecret Revelations to him. The Pope at firſt was a little ſurprized at the news, and gave order to have them privately brought before him and the two Cardinals. When they were admitted into the preſence, <hi>VVatſon</hi> ſaluted the Pope with this addreſs. <hi>Art thou that Man of Sin, that Artichriſt and great Leviathan, Verily God hath raiſed us up from the utmoſt parts of the Earth to preach the everlaſting Goſpel to thee, and to convert thee from thy Idolatrous errors and ſin<g ref="char:EOLhyphen"/>ful ways, unto the true way and to the Light, &amp;c.</hi> The Pope was ama<g ref="char:EOLhyphen"/>zed
+<pb n="7" facs="tcp:192256:7"/> at this ſtrange confidence, and did really believe that the common report had not at all belyed them, but that they were very much diſtempered in their minds, and diſtr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted, and gave a ſtrict command that none ſhould oder any violence to them, but withal privately appointed ſome of the Engli<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Colledge to perſuade them to return home, or elſe to take charge of them in their Colledge, and not let them thus run about the City di<g ref="char:EOLhyphen"/>ſturbing the people. This was effected according to the Popes deſire, for about the end of <hi>July,</hi> ſeeing how unſucceſsful their endeavours had been, they reſolved to leave that <hi>Babilonian</hi> Ci<g ref="char:EOLhyphen"/>ty, and go preach the Goſpel to the <hi>Turks</hi> and <hi>Mahometans.</hi> In order thereunto, they took Shipping for <hi>Conſtantinople,</hi> where within two Months they ſafely arrived.</p>
+               <p>They had not been above a fortnight in that great City, but they went into the <hi>Mahometans Moſco</hi>'s and <hi>Temples,</hi> and cauſed great tumult among the people. For this offence they were con<g ref="char:EOLhyphen"/>demned to be baſtinado'd, <hi>i. e.</hi> to receive three hundred blows upon the ſoals of their Feet, which was accordingly executed with that extremity of rigor and cruelty, ſo that in few days the putrified fleſh came off from the bones, which was a miſerable ſpectable to behold. But this ſpirit of Quakeriſm had ſo Tranſ<g ref="char:EOLhyphen"/>ported and infatuated them, that they got wooden Crutches, and once more went to their prophane <hi>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſco</hi>'s, and cauſed a much greater diſturbance then before. Hereupon the Turks were ſore vexed, and preſently had them before the <hi>Mufti</hi> himſelf, who forth with in a great fury and rage paſſed this cruel ſentence up<g ref="char:EOLhyphen"/>on them, <hi>viz.</hi> That they were to have their hands chopt off, their Tongues cut out, their Eyes cut out, and each Man to have a ſharp Wooden Stake run in at his Fundament, and ſo quite through his body, all which was accordingly put in execution: And ſo theſe poor wretches after all their ſufferings, ended their miſerable Lives.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:192256:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
